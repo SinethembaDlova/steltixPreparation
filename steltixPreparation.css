@@ -1,0 +1,74 @@
+body
+{
+  margin: auto;
+}
+
+.container
+{
+  margin: 0px;
+  height: 100%;
+  width: 100%;
+  position: absolute;
+  display: block;
+}
+
+.nav
+{
+  height: 10%;
+  width: 100%;
+  background: #000;
+  color: white;
+  font-family: "sans-serif";
+}
+
+.nav h1
+{
+  margin:10px 0;
+position: absolute;
+
+}
+
+.inputCover
+{
+  height: 40%;
+  width: 40%;
+  margin-top: 100px;
+  margin-left: 400px;
+  border: 2px solid grey;
+
+}
+
+.inputCover h2
+{
+  font-family: "sans-serif";
+  text-align: center;
+}
+
+.inputCover label
+{
+  font-family: "sans-serif";
+  margin-left: 120px;
+  font-size: 20px;
+
+}
+
+#lookUpButton
+{
+  height: 40px;
+  width: 286px;
+  background-color: #c53146;
+  border-color: rgba(187, 36, 42, 0.64);
+  color: white;
+  margin-left: 120px;
+  margin-top: 10px;
+  font-size: 18px;
+}
+
+
+.inputCover p
+{
+  font-family: "sans-serif";
+  margin-top: 30px;
+  margin-left: 10px;
+  font-size: 18px;
+}
