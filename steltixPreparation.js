@@ -11,7 +11,7 @@ function displayUserName() {
   $.ajax({
        type : 'GET',
        url: url,
-       headers: {"Authorization": "token "}
+       headers: {"Authorization": "token 810527d245325952476fd05bfc7b50d7b50963fd"}
    })
   .then(function(results){
 
